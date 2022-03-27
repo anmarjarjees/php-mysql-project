@@ -1,0 +1,4 @@
+/* Our Custom Styles */
+table th, table td {
+    border-left: 1px solid #000;
+}
